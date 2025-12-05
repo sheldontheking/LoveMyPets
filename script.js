@@ -1,9 +1,11 @@
-<div class="welcome-images">
-    <img src="https://placedog.net/200/150?id=201" alt="Dog">
-    <img src="https://cataas.com/cat/cute?width=200&height=150" alt="Cat">
-    <img src="https://placedog.net/200/150?id=202" alt="Dog">
-    <img src="https://cataas.com/cat/angry?width=201&height=150" alt="Cat">
-</div>
+// images
+const pets = [
+    { name: "Buddy", type: "Dog", age: 3, image: "https://placedog.net/400/250?id=101" },
+    { name: "Mittens", type: "Cat", age: 2, image: "https://cataas.com/cat/cute?width=400&height=250" },
+    { name: "Charlie", type: "Dog", age: 1, image: "https://placedog.net/400/252?id=102" },
+    { name: "Luna", type: "Cat", age: 4, image: "https://cataas.com/cat/angry?width=401&height=250" },
+];
+
 
 
 // Select the container
