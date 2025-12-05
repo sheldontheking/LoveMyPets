@@ -1,10 +1,10 @@
-// images
-const pets = [
-    { name: "Buddy", type: "Dog", age: 3, image: "https://picsum.photos/id/237/400/250" },
-    { name: "Mittens", type: "Cat", age: 2, image: "https://picsum.photos/id/1025/400/250" },
-    { name: "Charlie", type: "Dog", age: 1, image: "https://picsum.photos/id/433/400/250" },
-    { name: "Luna", type: "Cat", age: 4, image: "https://picsum.photos/id/1074/400/250" }
-];
+<div class="welcome-images">
+    <img src="https://placedog.net/200/150?id=201" alt="Dog">
+    <img src="https://cataas.com/cat/cute?width=200&height=150" alt="Cat">
+    <img src="https://placedog.net/200/150?id=202" alt="Dog">
+    <img src="https://cataas.com/cat/angry?width=201&height=150" alt="Cat">
+</div>
+
 
 // Select the container
 const petList = document.getElementById('pet-list');
