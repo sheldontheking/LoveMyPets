@@ -1,9 +1,9 @@
 // images
 const pets = [
-    { name: "Buddy", type: "Dog", age: 3, image: "https://placedog.net/400/250?id=101" },
-    { name: "Mittens", type: "Cat", age: 2, image: "https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2F0fGVufDB8fDB8fHww" },
-    { name: "Charlie", type: "Dog", age: 1, image: "https://placedog.net/400/252?id=102" },
-    { name: "Luna", type: "Cat", age: 4, image: "https://images.unsplash.com/photo-1495360010541-f48722b34f7d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2F0fGVufDB8fDB8fHww" },
+    { name: "Buddy", type: "Dog", age: 3, image: "https://picsum.photos/id/237/400/250" },
+    { name: "Mittens", type: "Cat", age: 2, image: "https://picsum.photos/id/1025/400/250" },
+    { name: "Charlie", type: "Dog", age: 1, image: "https://picsum.photos/id/433/400/250" },
+    { name: "Luna", type: "Cat", age: 4, image: "https://picsum.photos/id/1074/400/250" }
 ];
 
 // Select the container
